@@ -1,1 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
 
+
+# Virtual Environment
+# Ignores the folder containing all installed Python packages
+venv/
+.venv/
+Data/
+
+# Environment variables
+# Never commit your secret keys or credentials
+.env
+
+
+# Editor directories and settings
+# For Visual Studio Code
+.vscode/
+
+
+# OS-generated files
+# For macOS
+.DS_Store
+# For Windows
+Thumbs.db
+
+
+# Log files
+# Ignores any log files the application might create
+*.log
+
+
+# Project-specific generated output
+# The final map file created by main.py
+safest_route.html
